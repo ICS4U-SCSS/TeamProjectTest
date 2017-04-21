@@ -23,7 +23,7 @@ namespace TeamProjectTest
             //comment 2
             //comment 3
             //comment 4
-            outputLabel.Text = "Hello There you";
+            
         }
     }
 }

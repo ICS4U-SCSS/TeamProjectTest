@@ -45,7 +45,7 @@
             // 
             this.ClickButton.Location = new System.Drawing.Point(170, 137);
             this.ClickButton.Name = "ClickButton";
-            this.ClickButton.Size = new System.Drawing.Size(75, 36);
+            this.ClickButton.Size = new System.Drawing.Size(115, 36);
             this.ClickButton.TabIndex = 1;
             this.ClickButton.Text = "Click Me";
             this.ClickButton.UseVisualStyleBackColor = true;

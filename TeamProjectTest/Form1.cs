@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -23,7 +23,9 @@ namespace TeamProjectTest
             //comment 2
             //comment 3
             //comment 4
+
             outputLabel.Text = "Hello There";
+
         }
     }
 }

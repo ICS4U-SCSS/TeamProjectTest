@@ -24,7 +24,7 @@ namespace TeamProjectTest
             //comment 3
             //comment 4
 
-
+            outputLabel.Text = "icsBranch";
 
         }
     }
